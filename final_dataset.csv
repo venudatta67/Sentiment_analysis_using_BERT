@@ -1,0 +1,201 @@
+id,rating,review,split
+1,negative,overpriced food with terrible taste .,train
+2,negative,waiting time was extremely long for a simple order .,val
+3,negative,waiting time was extremely long for a simple order .,train
+4,negative,the table was sticky and the cutlery was dirty .,val
+5,positive,quick delivery and fresh ingredients .,train
+6,positive,great flavors and perfect portion sizes .,test
+7,positive,highly recommend this restaurant to everyone .,val
+8,positive,delicious meal and a wonderful experience overall .,train
+9,negative,the place was dirty and poorly maintained .,train
+10,negative,portion sizes were very small for the price .,val
+11,positive,"absolutely loved this place , will visit again .",test
+12,negative,the place was dirty and poorly maintained .,test
+13,positive,highly recommend this restaurant to everyone .,train
+14,negative,burger was soggy and had no flavor .,test
+15,positive,delicious meal and a wonderful experience overall .,test
+16,positive,the desserts were amazing and beautifully presented .,train
+17,positive,highly recommend this restaurant to everyone .,test
+18,negative,the table was sticky and the cutlery was dirty .,val
+19,positive,"absolutely loved this place , will visit again .",val
+20,positive,"clean place , good service , and tasty food .",val
+21,positive,the desserts were amazing and beautifully presented .,val
+22,negative,overpriced food with terrible taste .,train
+23,negative,the food arrived cold and tasteless .,val
+24,negative,"really bad experience , would not recommend .",test
+25,negative,very disappointed with the service here .,train
+26,positive,the food was excellent and the service was quick .,test
+27,positive,highly recommend this restaurant to everyone .,train
+28,negative,waiting time was extremely long for a simple order .,test
+29,negative,the food arrived cold and tasteless .,test
+30,negative,waiting time was extremely long for a simple order .,test
+31,negative,burger was soggy and had no flavor .,train
+32,negative,very disappointed with the service here .,val
+33,negative,the food arrived cold and tasteless .,train
+34,positive,the food was excellent and the service was quick .,val
+35,negative,"really bad experience , would not recommend .",val
+36,negative,portion sizes were very small for the price .,test
+37,negative,"really bad experience , would not recommend .",test
+38,positive,"clean place , good service , and tasty food .",test
+39,negative,"really bad experience , would not recommend .",train
+40,positive,overall a fantastic dining experience .,val
+41,negative,"really bad experience , would not recommend .",val
+42,positive,"absolutely loved this place , will visit again .",train
+43,negative,burger was soggy and had no flavor .,val
+44,negative,burger was soggy and had no flavor .,test
+45,negative,portion sizes were very small for the price .,test
+46,positive,highly recommend this restaurant to everyone .,train
+47,positive,the ambience was great and the staff were friendly .,test
+48,negative,overpriced food with terrible taste .,test
+49,positive,the food was excellent and the service was quick .,test
+50,positive,quick delivery and fresh ingredients .,train
+51,negative,the food arrived cold and tasteless .,train
+52,positive,quick delivery and fresh ingredients .,val
+53,positive,the ambience was great and the staff were friendly .,val
+54,negative,overpriced food with terrible taste .,train
+55,positive,overall a fantastic dining experience .,train
+56,positive,great flavors and perfect portion sizes .,train
+57,positive,"clean place , good service , and tasty food .",train
+58,positive,great flavors and perfect portion sizes .,train
+59,negative,waiting time was extremely long for a simple order .,train
+60,positive,great flavors and perfect portion sizes .,test
+61,negative,waiting time was extremely long for a simple order .,test
+62,positive,the ambience was great and the staff were friendly .,val
+63,positive,great flavors and perfect portion sizes .,val
+64,negative,burger was soggy and had no flavor .,test
+65,negative,very disappointed with the service here .,val
+66,positive,"clean place , good service , and tasty food .",test
+67,negative,burger was soggy and had no flavor .,test
+68,negative,the food arrived cold and tasteless .,train
+69,negative,waiting time was extremely long for a simple order .,train
+70,negative,waiting time was extremely long for a simple order .,test
+71,negative,burger was soggy and had no flavor .,train
+72,negative,overpriced food with terrible taste .,train
+73,negative,the place was dirty and poorly maintained .,train
+74,positive,quick delivery and fresh ingredients .,train
+75,positive,the desserts were amazing and beautifully presented .,val
+76,negative,overpriced food with terrible taste .,val
+77,positive,the desserts were amazing and beautifully presented .,val
+78,negative,very disappointed with the service here .,val
+79,positive,the desserts were amazing and beautifully presented .,train
+80,negative,burger was soggy and had no flavor .,train
+81,positive,quick delivery and fresh ingredients .,test
+82,negative,the food arrived cold and tasteless .,val
+83,negative,the staff were rude and inattentive .,val
+84,positive,"clean place , good service , and tasty food .",test
+85,positive,"absolutely loved this place , will visit again .",test
+86,positive,great flavors and perfect portion sizes .,val
+87,positive,quick delivery and fresh ingredients .,test
+88,positive,overall a fantastic dining experience .,test
+89,positive,"clean place , good service , and tasty food .",train
+90,negative,the place was dirty and poorly maintained .,val
+91,negative,"really bad experience , would not recommend .",test
+92,negative,very disappointed with the service here .,train
+93,positive,"absolutely loved this place , will visit again .",train
+94,negative,burger was soggy and had no flavor .,val
+95,negative,very disappointed with the service here .,train
+96,negative,overpriced food with terrible taste .,val
+97,negative,the staff were rude and inattentive .,val
+98,positive,great flavors and perfect portion sizes .,val
+99,positive,"absolutely loved this place , will visit again .",train
+100,negative,burger was soggy and had no flavor .,val
+101,positive,the food was excellent and the service was quick .,test
+102,positive,quick delivery and fresh ingredients .,test
+103,positive,quick delivery and fresh ingredients .,train
+104,positive,the ambience was great and the staff were friendly .,val
+105,positive,"clean place , good service , and tasty food .",val
+106,negative,portion sizes were very small for the price .,train
+107,positive,the food was excellent and the service was quick .,val
+108,negative,the table was sticky and the cutlery was dirty .,val
+109,positive,the food was excellent and the service was quick .,train
+110,positive,"clean place , good service , and tasty food .",test
+111,positive,great flavors and perfect portion sizes .,train
+112,negative,waiting time was extremely long for a simple order .,test
+113,positive,highly recommend this restaurant to everyone .,val
+114,negative,the food arrived cold and tasteless .,train
+115,positive,quick delivery and fresh ingredients .,val
+116,negative,overpriced food with terrible taste .,train
+117,positive,"clean place , good service , and tasty food .",val
+118,positive,the ambience was great and the staff were friendly .,test
+119,negative,the table was sticky and the cutlery was dirty .,test
+120,negative,portion sizes were very small for the price .,val
+121,negative,the table was sticky and the cutlery was dirty .,val
+122,negative,"really bad experience , would not recommend .",train
+123,negative,the food arrived cold and tasteless .,val
+124,negative,the food arrived cold and tasteless .,train
+125,negative,portion sizes were very small for the price .,val
+126,positive,the ambience was great and the staff were friendly .,train
+127,negative,waiting time was extremely long for a simple order .,test
+128,negative,overpriced food with terrible taste .,train
+129,positive,"absolutely loved this place , will visit again .",test
+130,negative,the staff were rude and inattentive .,val
+131,positive,quick delivery and fresh ingredients .,val
+132,negative,very disappointed with the service here .,val
+133,positive,delicious meal and a wonderful experience overall .,test
+134,negative,overpriced food with terrible taste .,train
+135,positive,quick delivery and fresh ingredients .,test
+136,positive,"absolutely loved this place , will visit again .",val
+137,positive,highly recommend this restaurant to everyone .,val
+138,negative,burger was soggy and had no flavor .,test
+139,negative,the table was sticky and the cutlery was dirty .,train
+140,negative,overpriced food with terrible taste .,val
+141,negative,the place was dirty and poorly maintained .,test
+142,positive,delicious meal and a wonderful experience overall .,test
+143,positive,great flavors and perfect portion sizes .,train
+144,positive,the desserts were amazing and beautifully presented .,train
+145,positive,the ambience was great and the staff were friendly .,test
+146,positive,"clean place , good service , and tasty food .",val
+147,negative,"really bad experience , would not recommend .",train
+148,negative,the staff were rude and inattentive .,test
+149,negative,portion sizes were very small for the price .,val
+150,positive,the ambience was great and the staff were friendly .,train
+151,negative,very disappointed with the service here .,train
+152,negative,the staff were rude and inattentive .,val
+153,positive,"absolutely loved this place , will visit again .",test
+154,negative,"really bad experience , would not recommend .",train
+155,positive,"clean place , good service , and tasty food .",test
+156,positive,highly recommend this restaurant to everyone .,test
+157,positive,overall a fantastic dining experience .,train
+158,positive,"absolutely loved this place , will visit again .",val
+159,positive,the ambience was great and the staff were friendly .,test
+160,negative,waiting time was extremely long for a simple order .,val
+161,negative,very disappointed with the service here .,test
+162,negative,the place was dirty and poorly maintained .,test
+163,negative,the staff were rude and inattentive .,val
+164,positive,the desserts were amazing and beautifully presented .,test
+165,negative,the place was dirty and poorly maintained .,train
+166,negative,burger was soggy and had no flavor .,train
+167,negative,portion sizes were very small for the price .,test
+168,positive,great flavors and perfect portion sizes .,train
+169,negative,waiting time was extremely long for a simple order .,val
+170,positive,delicious meal and a wonderful experience overall .,val
+171,negative,overpriced food with terrible taste .,val
+172,negative,portion sizes were very small for the price .,train
+173,positive,the ambience was great and the staff were friendly .,train
+174,negative,the place was dirty and poorly maintained .,test
+175,positive,the ambience was great and the staff were friendly .,test
+176,positive,highly recommend this restaurant to everyone .,train
+177,positive,the food was excellent and the service was quick .,train
+178,positive,delicious meal and a wonderful experience overall .,test
+179,positive,great flavors and perfect portion sizes .,test
+180,negative,very disappointed with the service here .,test
+181,negative,burger was soggy and had no flavor .,train
+182,positive,great flavors and perfect portion sizes .,test
+183,negative,waiting time was extremely long for a simple order .,test
+184,positive,the food was excellent and the service was quick .,test
+185,positive,overall a fantastic dining experience .,test
+186,negative,very disappointed with the service here .,test
+187,negative,overpriced food with terrible taste .,train
+188,negative,burger was soggy and had no flavor .,test
+189,negative,"really bad experience , would not recommend .",val
+190,positive,"clean place , good service , and tasty food .",test
+191,positive,delicious meal and a wonderful experience overall .,test
+192,positive,highly recommend this restaurant to everyone .,test
+193,positive,highly recommend this restaurant to everyone .,train
+194,negative,the place was dirty and poorly maintained .,test
+195,positive,"absolutely loved this place , will visit again .",train
+196,positive,the ambience was great and the staff were friendly .,train
+197,negative,waiting time was extremely long for a simple order .,test
+198,negative,the place was dirty and poorly maintained .,test
+199,positive,overall a fantastic dining experience .,train
+200,positive,the food was excellent and the service was quick .,train
